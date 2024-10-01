@@ -21,7 +21,7 @@ This project uses **Python 2.7**, so it's important to ensure you have this vers
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/fluid-simulator.git
+   git clone https://github.com/imariagg/fluid-simulation.git
    cd fluid-simulator
    ```
 
@@ -69,7 +69,13 @@ In the simulation, a column of fluid is generated, which interacts through press
 
 ### Test Video
 
-I have made a test of the simulation by rendering the binary files in RealFlow. You can watch the resulting video [here](link_to_your_video). The video shows the behavior of the fluid in an enclosed environment. You can create similar videos by following these steps:
+I have made a test of the simulation by rendering the binary files in RealFlow. You can watch the resulting video:
+
+
+https://github.com/user-attachments/assets/a0e07a51-30e3-4daa-bf1a-15bbfcd6df8d
+
+
+The video shows the behavior of the fluid in an enclosed environment. You can create similar videos by following these steps:
 
 1. Run the simulation and let the binary files be generated.
 2. Import the binary files into RealFlow or another fluid simulation software.
