@@ -69,7 +69,7 @@ In the simulation, a column of fluid is generated, which interacts through press
 
 ### Test Video
 
-I have made a test of the simulation by rendering the binary files in RealFlow. The example video shows the behavior of the fluid in an enclosed environment. You can create similar videos by following these steps:
+I have made a test of the simulation by rendering the binary files in RealFlow. You can watch the resulting video [here](link_to_your_video). The video shows the behavior of the fluid in an enclosed environment. You can create similar videos by following these steps:
 
 1. Run the simulation and let the binary files be generated.
 2. Import the binary files into RealFlow or another fluid simulation software.
